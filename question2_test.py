@@ -5,7 +5,7 @@ from question2 import perfectCity
 class TestCase(unittest.TestCase):
 
     def test_1(self):
-        self.assertEquals(2.7, perfectCity([0.4, 1], [0.9, 3]))
+        self.assertEqual(2.7, perfectCity([0.4, 1], [0.9, 3]))
 
     def test_2(self):
         self.assertEqual(8.9, perfectCity([2.4, 1], [5, 7.3]))
