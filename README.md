@@ -31,9 +31,9 @@ Since:
 
 30 * 0.45 + 7 * 3.5 = 13.5 + 24.5 = 38
 
-## Question2
+## Question 2
 ![question2](question2_statement.png?raw=true)
 
-## Question3
+## Question 3
 ![question3](question3_statement_1.png?raw=true)
 ![question3](question3_statement_2.png?raw=true)
