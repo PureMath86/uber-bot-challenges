@@ -57,3 +57,4 @@ def perfectCity(departure, destination):
     total_dist = depart_abs_diff[0] + depart_abs_diff[1] + dest_abs_diff[0] + dest_abs_diff[1] + corners_dist
 
     return float("{0:.1f}".format(total_dist))
+

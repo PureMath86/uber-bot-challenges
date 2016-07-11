@@ -131,3 +131,4 @@ def parkingSpot(carDimensions, parkingLot, luckySpot):
         return False
 
     return True
+

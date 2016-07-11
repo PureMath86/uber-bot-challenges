@@ -15,3 +15,5 @@ class TestCase(unittest.TestCase):
 
     def test_4(self):
         self.assertEqual(2, perfectCity([0, 0.4], [1, 0.6]))
+
+
